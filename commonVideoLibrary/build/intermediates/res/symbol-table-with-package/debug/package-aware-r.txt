@@ -1,0 +1,7 @@
+com.roryhool.commonvideolibrary
+drawable ic_launcher
+string app_name
+string select_video
+string selected_video_thumbnail
+style AppBaseTheme
+style AppTheme

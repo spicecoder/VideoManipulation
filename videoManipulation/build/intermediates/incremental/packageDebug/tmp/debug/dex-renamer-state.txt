@@ -1,0 +1,4 @@
+#Mon Dec 30 04:43:13 AWST 2019
+base.0=/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

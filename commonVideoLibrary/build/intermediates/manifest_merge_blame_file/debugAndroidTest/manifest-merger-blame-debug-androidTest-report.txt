@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.roryhool.commonvideolibrary.test" >
+4
+5    <uses-sdk
+5-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:5:15-41
+7        android:targetSdkVersion="19" />
+7-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:11:5-15:86
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:13:22-53
+13        android:label="Tests for com.roryhool.commonvideolibrary.test"
+13-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:15:22-84
+14        android:targetPackage="com.roryhool.commonvideolibrary.test" />
+14-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:12:22-82
+15
+16    <application
+16-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:7:5-9:19
+17        android:allowBackup="true"
+17-->[__tested_artifact__::commonVideoLibrary] /Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-35
+18        android:debuggable="true"
+18-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:7:18-43
+19        android:icon="@drawable/ic_launcher"
+19-->[__tested_artifact__::commonVideoLibrary] /Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-45
+20        android:label="@string/app_name"
+20-->[__tested_artifact__::commonVideoLibrary] /Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-41
+21        android:theme="@style/AppTheme" >
+21-->[__tested_artifact__::commonVideoLibrary] /Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-40
+22        <uses-library android:name="android.test.runner" />
+22-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:8:9-60
+22-->/Users/pronabpal/Downloads/VideoManipulation/commonVideoLibrary/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3164049402913843695.xml:8:23-57
+23    </application>
+24
+25</manifest>

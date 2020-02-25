@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/layout_activity_resample.xml.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/layout/activity_resample.xml"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/layout_activity_trim.xml.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/layout/activity_trim.xml"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/layout_activity_rotation.xml.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/layout/activity_rotation.xml"
+    },
+    {
+        "merged": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/pronabpal/Downloads/VideoManipulation/videoManipulation/src/main/res/layout/activity_main.xml"
+    }
+]
